@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dice roller</string>
+    <string name="roll">Roll</string>
+    <string name="description_dato">Imagem que aparece o dado</string>
+</resources>
